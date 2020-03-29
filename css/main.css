@@ -962,7 +962,7 @@ legend {
 
 .button
 {
-  background-color : rgba rgba(56, 54, 54, 0.4);
+  background-color : rgba(206, 198, 198, 0.705);
   border: 2px solid black;
   color: black;
   
@@ -979,6 +979,7 @@ legend {
   font-family: 'Helvetica', sans-serif;
   line-height: 20px;
   opacity: 0.9;
+  appearance: button;
    }
 .button:hover
 {
